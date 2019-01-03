@@ -1,0 +1,14 @@
+Rice  : 30.0
+Milk:10.0
+milk:   15.0
+
+
+    Chocolate   :   34.2
+  Chocolate  : 1324 : 12341
+  
+   milk :20
+   
+   Chicken -> 12.6
+   Beef12.0
+   Fish
+	Milk : 10.1

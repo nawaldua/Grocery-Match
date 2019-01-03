@@ -1,0 +1,7 @@
+rice: 30.0
+milk: 49.0
+eggs: 12.0
+butter: 4.0
+bread: 24.0
+potatoes: 10.0
+cheese: 16.0

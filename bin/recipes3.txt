@@ -1,0 +1,405 @@
+almond_mushroom_pate -> tarragon: 3, onion_chopped: 1, lemon_juice: 1, white_pepper: 1, soy_sauce: 2, margarine: 2, cream_cheese_optional_: 2, sliced_mushrooms: 4, blanched_whole_almonds: 1
+almond_puff -> eggs: 3, butter_or_margarine_: 6, almond_extract: 1, water: 3, gold_medal_flour: 2
+almond_stuffed_dates_with_bacon -> pitted_dates: 1, lean_thinly_sliced_bacon_cut: 4
+anchovy_olive_dip -> grated_onion: 3, finely_chopped_stuffed_green: 3, anchovy_paste: 4, dairy_sour_cream: 1
+anchoyade -> flat_anchovy_fillets: 4, lemon_juice_or_red_wine: 2, tomato_paste: 1, to_slices_french_bread_: 8, cloves_garlic_finely: 2, finely_chopped_fresh_parsley: 1, to_tb_olive_oil: 1
+angel_of_death_cheese_spread -> gorganzola_or_bleu_cheese: 1, cloves_chopped_garlic: 2, fresh_sage_leaves: 4, chopped_walnuts: 1, ricotta_cheese: 1
+antipasto -> medium_onion: 1, tuna_fish_drained: 1, oil: 2, garlic_clove: 1, green_peppers: 2, bottle_of_catsup: 4, juice_of_one_lemon: 1, flowerets_of_med_cauliflower: 1, stalks_of_celery: 2, granulated_sugar: 1, sliced_mushrooms: 3, carrots: 3
+appetizer_cheese_ball -> pecans_finely_chopped: 3, parsley_chopped: 7, cream_cheese_room_temp_: 8, cheddar_cheese_shredded: 4, garlic_powder: 9, worcestershire_sauce: 1, currants: 5, blue_cheese_crumbled: 4, salt: 5, mustard_dijon_style: 2
+asparagus_and_crabmeat_salad -> dijon_mustard: 3, lemon_juice_fresh: 1, tomato_paste: 4, boston_lettuce_leaves_or: 4, pepper: 5, asparagus_trimmed: 1, shallot_minced: 4, crabmeat_cooked: 8, mayonnaise: 1
+asparagus_roll_ups -> loaf_bread_: 1, cream_cheese: 8, can_asparagus: 1, bleu_cheese: 4, worcestershire_sauce: 1, beaten_egg: 1
+avocado_and_raisin_dip -> freshly_ground_pepper: 5, avocados_peeled_chopped: 2, lime_juice: 5, sugar: 1, raisins: 3, salt: 1, vegetable_oil: 3
+avocado_tofu_egg_dip -> min_to_prepare: 1, hard_cooked_eggs: 2, dijon_mustard: 3, cider_vinegar: 3, cake_lb_tofu: 1, prepared_horseradish: 3, cold_water: 3, very_finely_minced_red_onion: 3
+aztec_pyramid_avocado_dip -> taco_seasoning_mix_pkg: 5, cheddar_sharp_shredded: 2, cream_cheese_softened: 1, avocado_: 3, sour_cream: 2, fresh_tomatoes_fine_chopped: 3, black_olives_sliced: 3, green_onions_sliced_use_all: 5, lemon_juice: 2
+baba_ghannouj -> ground_cumin: 1, sesame_seeds: 2, lemon_juice: 1, tahini: 5, black_pepper: 5, finely_chopped_fresh_parsley: 2
+baba_ghannuj_eggplant_appetizer_ -> clove_garlic_crushed: 1, tahini_sesame_seed_paste: 5, lemon_juice: 5, large_eggplant: 1, salt: 1, water: 2
+baby_pear_tomatoes_and_brie -> round_brie_cheese: 7, to_tbsp_snipped_fresh: 1, baby_pear_tomatoes_red_and: 7
+baby_shrimp_and_tarragon_mustard -> fresh_tarragon_chopped: 2, white_wine_vinegar: 4, sour_cream: 3, dijon_mustard: 2, dried_tarragon_crushed: 2, baby_shrimp: 7, mayonnaise: 1, lemon_juice: 1
+bacon_and_smoked_oysters -> round_wooden_toothpicks: 4, smoked_oysters: 2, garlic_minced: 3, bacon_strips: 3, light_vegetable_oil: 5
+bacon_and_cheese_eggs -> hard_cooked_eggs: 6, vinegar: 2, crisp_bacon: 2, salt: 9, mayonnaise: 3, grated_cheddar: 5
+bacon_artichoke_bundles -> jar_spicy_brown_mustard: 1, bacon: 1, jars_marinated_artichoke: 3
+bacon_horseradish_dip -> real_bacon_bits: 5, miracle_whip: 3, sour_cream: 1, prepared_horseradish: 5
+bacon_olive_hot_appetizer -> slices_bacon_crumbled: 6, curry: 1, shredded_cheddar_cheese: 4, green_onion_tops_chopped: 3, ripe_olives_chopped: 1, mayonnaise: 3
+bacon_roll_ups -> mixed_grain_sandwich_bread: 7, milk: 1, bacon_cut_in_halves: 7, cream_cheese_with_chives: 6
+bacon_flavored_dip_mix -> instant_bacon_bits: 2, instant_beef_bouillon: 1, instant_minced_onion: 1, minced_garlic: 9
+baked_cheddar_olives -> flour: 3, cheddar_cheese_grated: 1, unsalted_butter_softened: 2, cayenne_pepper: 9, pimiento_stuffed_olives: 6
+baked_party_dip -> scallions_chopped: 1, butter_or_margarine: 2, round_loaf_dark_bread_about: 1, garlic_cloves_finely_minced: 6
+baked_potato_chips -> butter_melted_stick_: 6, red_boiling_potatoes_: 6
+baked_potato_spears -> miracle_whip_salad_dressing: 5, baking_potatoes: 3
+baked_spinach -> butter: 3, cream_cheese: 8, frozen_spinach: 2, lipton_onion_soup_mix: 1
+baked_sweet_red_yellow_pepper_wedges -> clove_garlic_fine_chopped: 4, chopped_fresh_parsley: 5, pepper: 5, size_sweet_red_peppers: 2, salt: 1, size_onion_fine_chopped: 1, fresh_bread_crumbs: 5, size_sweet_yellow_pepper: 2, pine_nuts: 3
+baked_vegetable_and_seafood_won_tons -> envelope_vegetable_soup_mix: 1
+banana_curry_dip -> banana: 1, onion_finely_chopped: 1, curry_powder: 1, butter: 1, salt: 3, mayonnaise: 3, water: 3, apricot_jam: 1, sour_cream: 3
+bar_cheeze_a_la_win_shooter_s_fbpm_ -> few_drops_of_red_and_yell: 1, tabasco_hot_red_pepper_sauce: 9, melted_and_strained_bacon_gr: 5, unsalted_butter_at_room_t: 3, bottle_prepared_horseradi: 5, velveeta_cheese_no_substit: 1, pkg_cream_cheese_softened: 8, onion_juice: 2
+barbecue_bits -> franks_rounds: 1, curry_powder: 3, vinegar: 5, pepper: 5, salt: 1, garlic_clove_minced: 1, brown_sugar: 3, tomato_sauce: 4, onion_small_minced: 1, worcestershire: 1, mustard: 1
+barbecued_garlic -> butter: 4, heads_garlic: 8
+barbecued_spareribs -> garlic_clove_crushed: 1, honey: 3, tomato_paste: 1, mustard_powder: 5, pork_spareribs: 2, five_spice_powder: 2, dark_soy_sauce: 2, unsweetened_orange_juice: 3, piece_ginger_root_peeled_: 1
+basic_crepe_recipe -> flour: 4, milk: 4, sugar: 1, salt: 9, butter_or_oil_melted_cooled: 2, eggs: 3
+basic_fish_mousse -> finely_diced_onion: 2, cooked_lobster: 3, whitefish_fillets: 3, tomato_paste: 1, salt: 3, egg_whites: 3, whipping_cream: 7, brandy: 2
+basic_fondue_fondue_neuchateloise_ -> dry_white_wine: 5, emmental_and_gruyere_cheese_: 8, white_bread_cubed: 6, cornstarch: 1, kirsch_: 3
+basic_salsa -> whole_clove_garlic: 1, ripe_plum_tomatoes_cored: 1, minced_flat_leaf_parsley_: 5, lime_juice: 1, minced_fresh_coriander_or: 5, salt: 5, red_onion_finely_chopped: 3
+bay_scallop_seviche -> hot_red_chili_pepper_: 1, ground_cumin: 4, bay_scallops: 2, fresh_orange_juice: 3, fresh_lime_juice: 1, ripe_plum_tomatoes_: 3, red_pepper_seeded_chopped: 1, scallions_chopped: 3, lime_sliced_for_garnish: 1, red_onion_finely_chopped: 5, cilantro_chopped: 1
+beacon_hill_clam_dip -> lemon_juice: 1, gorton_s_clams: 1, prepared_horseradish: 2
+bean_dip_a_la_dr_pepper -> can_red_kidney_beans_drain: 1, clove_garlic_minced: 1, sharp_cheddar_shredded: 1, dr_pepper: 3, oil: 2, tomato_paste: 3, salt: 1, worcestershire_sauce: 1, can_green_chilies_drained: 4, black_pepper: 5
+bean_dip -> garlic: 1, grated_cheese: 6, chopped_onion: 3, can_refried_beans: 11, taco_sauce: 5
+beef_cheese_ball -> cream_cheese_yogurt_cheese: 8
+beef_jerkey -> flank_steak: 4
+beef_jerky -> pepper_more_for_hot_: 3, beef_roast: 1, soy_sauce: 3, onion_salt: 3, worcestershire_sauce: 3, ketchup: 2, garlic_powder: 3
+beef_sausage_nella -> morton_tender_quick_salt: 5, garlic_salt: 5, hickory_smoke_salt: 1, coarse_ground_pepper: 5, lean_ground_beef: 5
+beef_yakitori -> beef_sirloin_fine_chopped_: 1, sugar: 2, garlic_clove_crushed_: 1, lemon_juice: 2, soy_sauce: 3, sesame_seeds: 1, green_onions_fine_chopped_: 2, vegetable_oil: 2, ginger_ground_: 3
+beer_batter_fried_veggies_n_things -> baking_powder: 1, large_eggs: 2, env_golden_onion_soup_mix: 1, prepared_mustard: 1, unbleached_all_purpose_flour: 1, beer_any_regular_beer: 3
+black_bean_dip -> cumin_ground: 1, oregano_dried: 1, sour_cream: 3, dried_cilantro_crushed_: 1, black_beans_cooked: 4, carrot_minced: 4, salt: 5, celery_minced: 4, coriander_ground: 3
+cayenne_mayonnaise_dip -> sour_cream: 3, mayonnaise: 4
+cayenne_pepper_wafers -> chopped_walnuts_or_pecans_: 1, cayenne_pepper: 1, sifted_all_purpose_flour: 5, gruyere_cheese_grated: 3, salt: 1, unsalted_butter_at_room: 1
+cereal_crunch -> unsalted_dry_roasted_peanuts: 5, raisins: 4, unsalted_pretzel_twists: 1, crispix_cereal: 4, cheerios: 4
+ceviche -> sea_bass_diced_in_pcs_: 1, onion_chopped: 5, olive_oil: 1, tomatoes: 2, ground_oregano: 9, clam_juice: 1, serrano_chiles_seeded_diced: 2, lime_juice_freshly_squeezed: 7
+chalupa_dip -> tomatoes_chopped_drained_: 3, taco_seasoning_mix: 1, green_onion_chopped_: 3, cheddar_cheese_grated_: 8, sour_cream: 8, pepper: 5, salt: 3, mayonnaise: 3, avocados: 3, lemon_juice: 2
+cheddar_and_broccoli_appetizers -> walnuts_coarsely_chopped: 3, whole_kernal_corn_drained: 8, milk: 3, cheddar_cheese_shredded: 1, onion_chopped: 5, frozen_chopped_broccoli_: 1, bisquick: 3, garlic_salt: 5, butter_melted: 5, eggs: 2
+cheddar_chili_cheesecake -> finely_grated_ched_cheese: 5, fine_breadcrumbs_toasted: 5, cream_cheese_room_temp_: 4, jalapeno_pepper_: 3, sharp_cheddar_grated: 7, cottage_cheese: 1, garlic_clove_halved: 1, milk: 2, thinly_sliced_ham: 6, chopped_green_onion: 7, butter_for_pan_: 4, eggs: 4
+cheddar_harvest_fondue -> ground_black_pepper: 1, all_purpose_flour: 5, italian_bread_cut_in_inch: 4, milk: 7, apple_juice: 7, dijon_style_mustard: 1, onion_powder: 2, salt: 5, assorted_blanched: 4
+cheddar_spread -> cheddar_sharp_grated: 8, butter: 1, garlic_powder: 5, worcestershire_sauce: 1, romano_cheese_grated: 4, paprika_sweet_or_hot: 3
+cheddar_sage_and_walnut_torta -> fresh_sage_leaves_chopped: 3, cream_cheese_softened: 3, sharp_cheddar_cheese: 3, walnuts_chopped: 1
+cheese_and_sausage_snacks -> milk: 7, teabisk_bisquik_: 3, grated_cheddar_cheese: 1, spanish_onion_finely_chopped: 1, roll_sausage_meat: 1
+cheese_balls_ -> stick_butter_melted: 1, rice_krispies: 1, grated_sharp_cheddar_cheese: 1, cayenne_pepper: 9, tabasco_sauce: 1, plain_flour: 1
+cheese_ball -> heaping_tablespoons: 2, worcestershire_sauce: 2, package_cream_cheese_: 8, onion_powder: 4, shredded_chedder_cheese_: 3
+cheese_balls_ -> grated_cheese: 3, tomato_sauce_as_a_dip: 1, egg_yolk: 4, seasoned_flour: 1
+cheese_chiles -> cheddar_cheese_shredded: 1, red_chiles_ground: 1, colby_cheese_shredded: 1, cilantro_stems_bunch_: 1
+cheese_chili_bites -> pinch_cayenne_pepper: 1, dry_mustard: 3, poppy_seeds: 1, sesame_seeds: 1, all_purpose_flour: 1, butter_or_margarine: 5, salt: 5, finely_grated_cheddar_cheese: 3, egg_beaten: 1, hot_chili_powder: 3, cold_water: 1
+cheese_crackers -> margarine_or_butter: 2, water: 2, salt: 5, grated_sharp_cheddar_cheese: 3, flour_part_for_rolling: 3
+cheese_crisps -> whole_whaet_flour: 3, salt: 5, grated_sharp_cheddar_cheese: 1, unsalted_butter: 5
+cheese_diablo_wafers_hot -> unbleached_flour: 1, sharp_cheddar_cheese_grated: 3, cayenne_pepper: 1, softened_butter_or_margarine: 3
+cheese_fondue_ -> natural_swiss_cheese_diced: 8, lemon_juice: 1, flour: 2, dry_white_wine: 2, gruyere_cheese_diced: 8, kirsch: 3, clove_garlic_halved: 1
+cheese_fondue_ -> butter: 1, dry_white_such_as_sauterne: 2, season_salt: 1, water: 1
+cheese_hoosies -> american_: 5, butter_or_margarine: 5, salt: 2, cayenne: 1, sifted_flour: 2
+cheese_log -> cream_cheese: 3, garlic_cloves: 2, red_pepper: 5, new_york_sharp_cheese: 3, worcestershire_sauce: 2, pimento_cheese: 3, salt: 5, mayonnaise: 2
+cheese_onion_morsels -> soft_butter: 3, sugar: 2, egg: 1, baking_powder: 3, all_purpose_flour: 2, cheddar_cheese_grated_: 1, paprika: 3, water: 5, salt: 1, onions_finely_chopped_: 3, parsley_chopped_or_flakes: 5
+cheese_pretzels -> flour: 6, unsalted_butter_softened: 3, cayenne_pepper: 5, shredded_aged_cheddar_cheese: 5, salt: 3, egg_white: 1, dijon_mustard: 2
+cheese_puffs -> dry_mustard: 7, butter_melted: 5, pepper: 3, milk: 2, salt: 1, slices_white_bread: 8, old_english_cheese_slices: 8, eggs: 3
+cheese_snacks -> butter: 5, grated_cheese: 1, flour: 4, salt: 5, cayenne_pepper: 5
+cheese_snack_rounds -> bisquick_baking_mix: 3, jar_oz_sharp_pasteurized: 1, toasted_sesame_seed: 2
+cheese_straws -> puff_pastry: 1, parmesan_grated: 7
+cheese_stuffed_pineapple -> salt_optional_: 5, dry_mustard: 5, well_aged_cheddar_grated: 3, chives_minced: 1, cream_cheese_oz_: 1, pineapple_ripe: 1, white_rum: 1
+cheese_triangles -> unsalted_butter_melted: 1, chopped_parsley: 3, shredded_jack_cheese_or_: 1, eggs_well_beaten: 2, salt: 1, sheets_phyllo_pastry: 1
+cheesy_f_b_i_man_safe_crackers -> chopped_pecans: 7, grated_cheddar_cheese: 2, red_pepper: 5, sifted_all_purpose_flour: 1, butter: 3, salt: 3, tomato_juice: 2
+cheesy_mushroom_canapes -> slices_french_bread_: 8, all_purpose_flour: 4, shredded_cheddar_cheese: 2, butter: 2, worcestershire_sauce: 1, mustard_powder: 1, chopped_fresh_parsley: 2, mushrooms_coarsely_chopped: 4
+cheesy_potato_skins -> bacon_cooked_and_crumbled: 6, shredded_cheddar_cheese: 1, baking_potatoes: 3
+cheesy_vegetable_spread -> chopped_pecans: 2, chopped_carrot: 5, currants: 2, plain_yogurt: 3, lemon_juice: 1, chopped_apple: 5, toasted_wheat_germ: 1, soy_sauce: 1, curry_powder: 3, shredded_farmer_cheese: 4, finely_chopped_celery: 2
+chesapeake_bay_crab_cakes -> lump_crabmeat_picked_clean: 1, of_cayenne_pepper: 1, sharp_prepared_mustard: 1, freshly_squeezed_lemon_juice: 1, butter: 4, freshly_ground_black_pepper: 3, salt: 3, dry_unflavored_bread_crumbs: 3, olive_oil_divided: 6
+chick_pea_tahini_dip -> tahini: 2, lemons_juiced: 2, crushed_garlic_cloves: 2, olive_oil: 5, soaked_chick_peas: 8
+chicken_pate -> mayonnaise_diet_: 2, lemon_juice: 2, hot_sauce: 5, dry_sherry: 2, ground_nutmeg: 9, neufchatel_cheese_softened: 8, minced_chicken_breast: 4, chopped_onion: 3, paprika: 1
+chicken_puffs -> dry_white_wine: 2, flour: 5, pimento_chopped_: 2, butter: 2, swiss_chesse_shredded_: 5, celery_finely_chopped_: 5, chicken_cooked_fine_chop_: 2, egg: 1, mayonnaise: 5
+chicken_puffs_amandine -> butter: 5, almond_extract: 5, devil_chicken_spread: 1, canned_chicken_broth: 3, salt: 9, diced_toasted_almond: 3, sifted_flour: 3, eggs: 2
+chicken_cheese_canapes -> freshly_ground_pepper: 5, dried_thyme: 5, dried_basil: 3, grated_swiss_cheese: 3, grated_parmesan_cheese: 3, english_muffins_split: 4, chopped_cooked_chicken: 2, mayonnaise: 7, scallions_minced: 2
+chili_and_corn_relish -> canned_corn_drained: 4, lime_juice: 1, anaheim_and_yellow_chili: 2, ground_coriander: 9, chopped_red_onion: 4
+chili_cheese_cornsticks -> baking_powder: 1, egg: 1, milk: 1, sugar: 2, chopped_green_chilies: 2, yellow_cornmeal: 6, flour: 3, shredded_cheddar: 3
+chili_cheese_roll -> chopped_pecans: 5, chili_powder: 2, garlic_powder: 9, american: 9
+chili_con_carrot -> cumin_ground: 1, dried_parsley_crushed_: 2, carrot_diced: 3, sour_cream: 2, dijon_mustard: 1, chili_powder: 1, yellow_onion_diced: 3
+chili_con_queso -> butter_or_margarine: 1, american_cheese_spread: 3, tomato_: 1, chopped_onion: 5, chili_peppers_: 2
+chilied_red_bean_dip -> garlic_clove_crushed: 1, onion_finely_chopped: 1, shredded_cheddar_cheese: 3, corn_oil: 2, red_kidney_beans_oz_: 1, hot_chili_powder: 1, fresh_green_chili_seeded_: 1
+chinese_laundry_cafe_s_feta_and_garlic_pate -> green_onions: 1, sour_cream: 5, pepper_freshly_ground: 1, chives_fresh_chopped_or_: 1, feta_cheese_g_: 6, cream_cheese_g_: 1, butter_softened: 6, garlic_cloves_minced: 2, anchovy_fillets_minced: 4
+chinese_style_spareribs -> spareribs_: 5, chili_sauce: 5, imported_soy_sauce_: 5, white_vinegar: 5, envelope_soup_mix_: 1, butter_or_margarine: 3, brown_sugar: 3, clove_garlic_: 1, tomato_puree: 7
+chorizo_rice_wrapped_in_cabbage_leaves -> parsley_minced: 1, oil_olive: 3, rice_uncooked_not: 4, chorizo_dry_or_pepperoni: 5, pepper_sauce_hot: 5, cucumber_medium: 1, garlic_minced: 1, salt: 5, water: 1, onions_green_bunch_: 1, cabbage_leaves_large: 4
+christmas_crab_quesadillas -> grated_monteray_jack_cheese: 7, lump_crab_meat_picked_over: 3, chopped_fresh_dill: 1, whole_shallot_or_or_: 1, butter_or_margarine_: 5, chopped_fresh_chives: 1, sour_cream: 2
+crab_dip_ -> mock_crab_flaked: 7, sour_cream: 3, mayonaise: 3
+crab_dip_ -> crabmeat: 1, powdered_sugar: 2, onion_grated: 2, prepared_mustard: 2, white_wine: 5, mayonnaise_or_salad_dressing: 3
+crab_fritters -> baking_powder: 2, crabmeat: 1, egg_whites_divided: 4, all_purpose_flour: 8, fresh_white_breadcrums: 7, warm_water: 4, salt: 9, vegetable_oil: 2, chopped_fresh_parsley: 3
+crab_stuffed_mushrooms -> crabmeat_well_picked: 8, lemon_juice: 1, fresh_breadcrumbs: 7, mushrooms: 2, eggs_beaten: 2, onion_minced: 5, mayonnaise: 5
+crab_stuffed_jalapenos -> jalapeno_peppers_lb_oz_: 1, green_pepper_finely_chopped: 2, cayenne_pepper: 9, onions_finely_chopped: 2, milk: 5, clove_garlic_minced: 1, black_pepper: 5, egg_beaten: 1, flaked_crabmeat: 1, cracker_meal: 5, salt: 5
+croutes_au_fromage -> sharp_cheddar_cheese_coarse: 1, swiss_cheese_fine_shredded: 4, flour: 4, butter_softened: 3, heavy_cream: 3, cayenne_pepper: 9, salt: 3, egg_beaten_lightly: 1, unsalted_butter_: 6
+croutes_au_fromage_cheese_pastries_ -> finely_shredded_swiss_cheese: 4, heavy_cream: 3, stick_tablespoons_cold: 7, coarsely_grated_sharp: 1, all_purpose_flour: 4, salt: 3, egg_beaten_lightly: 1, cayenne: 9
+crunchy_hot_crab_bites -> crab_mead_drained_all_bits: 4, unsalted_butter_melted: 2, minced_parsley: 2, melba_toast_rounds: 7, grated_lime_peel: 3, hot_prepared_mustard_or_to: 1, worcestershire_sauce: 1, grated_swiss_or_sharp: 3, green_onion_minced: 1, fresh_lime_or_lemon_muice: 1
+crunchy_stuffed_eggs -> eggs_hard_cooked: 6, pepper_coarsely_ground: 9, pimiento_stuffed_olives_: 6, salt: 5, commercial_sour_cream: 5, bacon_slices_cooked_and: 2, parsley_flakes: 1
+crustless_quiche -> cottage_cheese: 2, baking_powder: 1, flour: 3, cream_cheese_softened: 3, milk: 1, sugar: 1, butter: 5, salt: 1, monterey_jack_cheese_cubed: 1, eggs: 6
+crustless_spinach_mushroom_quiche -> black_pepper_freshly: 3, mushrooms_sliced: 6, parmesan_cheese_grated: 3, cholesterol_free_egg_replace: 1, skim_milk: 3, salt: 5, spinach_fresh_washed_and: 1, tarragon_fresh_or_tsp: 1, eggs: 2
+cucumber_dill_dip_ -> dried_dill_crushed: 2, sour_cream: 7, white_pepper: 5, cucumber: 1, fresh_dill_chopped_or: 2, green_bell_pepper_diced: 5, mayonnaise: 4
+cucumber_dill_dip_ -> cucumbers_: 2, sliced_green_onion: 2, tabasco_sauce: 3, cream_cheese_softened: 8, lemon_juice: 1, snipped_fresh_dill_or: 2, dried_dill_weed: 3, miracle_whip: 1
+cucumber_dip_with_pita_crisps -> light_sour_cream: 2, chopped_fresh_mint_leaves: 1, cucumber_peeled_and: 1, garlic_clove_minced: 1, lowfat_plain_yogurt: 7, chopped_fresh_cilantro: 2
+cucumber_ring_with_chicken_filling -> fresh_parsley_chopped: 1, chicken_stock: 2, lemon_juice: 6, mediu_dry_sherry: 3, cucumbers_peeled_and_finely: 2, fresh_tarragon_chopped_or_: 1, small_onion_finely_grated: 1, shredded_chicken: 6, finely_chopped_scallion: 1, mayonnaise: 3, chopped_celery: 1, plus_tsp_gelatin: 2
+cucumber_stuffed_with_roquefort_and_hazelnuts -> cream: 1, ground_white_pepper: 3, hazelnuts_peeled_and_finely: 6, cucumber_cut_in_half: 1, roquefort_cheese: 5, lime_juice: 1, caraway_seeds: 3, hazelnuts_peeled_and: 3
+cucumber_tea_sandwiches_with_mint_mayonnaise -> cucumber_peeled_and_thinly: 1, thin_slices_homemade_white: 7, dijon_mustard: 3, fresh_lemon_juice: 2, egg_yolks: 2, fresh_mint_leaves_loosely: 7, vegetable_oil: 1
+cucumbers_in_yogurt -> minced_fresh_mint: 2, plain_yogurt: 7, hothouse_cucumber: 1, minced_fresh_basil: 3, clove_minced_garlic: 1, minced_green_onion: 1
+curried_almonds -> turmeric: 1, blanched_almonds: 8, curry_powder: 1, mango_chutney: 2
+curried_chicken_liver_pate -> chicken_stock: 3, chicken_livers: 8, cayenne_pepper: 2, onion_finely_chopped: 1, curry_powder: 2, butter: 7, hard_boiled_eggs_shelled: 2, garlic_clove_chopped: 1
+curried_chutney_spread -> cream_cheese: 7, major_grey_s_chutney: 3, dry_mustard: 3, curry_powder: 1, chopped_almonds_toasted: 3
+curried_egg_dip_for_shrimp -> hard_cooked_egg_: 1, ground_ginger: 1, lemon_juice: 1, curry_powder: 1, clove_garlic: 1, salt: 3, chopped_green_onion_tops: 2, mayonnaise: 1
+curried_garlic_dip -> dry_mustard: 1, garlic_powder: 2, plain_yogurt: 1, sour_cream: 1, curry_powder: 2
+curried_lentil_pate -> cloves_garlic_minced_or_put: 2, cumin_seeds: 3, curry_powder: 2, sea_salt: 1, chili_powder: 5, to_cups_water: 2, safflower_or_peanut_oil: 2, turmeric: 5, ground_ginger: 5, onion_chopped: 1, dried_lentils_washed_and: 1, milk: 5, eggs: 2
+curried_peanuts -> roasted_salted_blanched: 1, garlic_powder: 9, seasoned_salt: 3, curry_powder: 1
+curried_shrimp_phyllo_bundles -> can_tiny_shrimp_drained: 4, margarine_or_butter_melted: 3, plain_yogurt: 4, finely_chopped_unsalted: 5, curry_powder: 1, chopped_chutney: 2, sheets_frozen_phyllo_dough: 6, grated_gingerroot_or_tsp: 3, coconut: 5
+curried_vegetable_dip -> grated_onion: 3, drops_tabasco_sauce: 8, lemon_juice: 1, curry_powder: 4, catsup: 3, mayonnaise: 2, honey: 3
+curried_yogurt_dip -> plain_yogurt: 7, lemon_juice: 1, curry_powder: 2, black_pepper: 5, hot_pepper_sauce: 9, honey: 3
+curry_cream_mussels -> garlic_clove_crushed: 1, dry_cider: 5, curry_powder: 1, mussels_cleaned: 2, stalk_celery_finely_chopped: 1, half_and_half: 5, sprigs_fresh_thyme: 3, shallots_finely_chopped: 3, butter: 2, all_purpose_flour: 1, mayonnaise: 5, water: 5
+curry_dip_ -> garlic_salt: 1, fresh_grated_onion: 2, curry_powder: 1, horseradish: 1, tarragon_vinegar: 1, hellman_s_mayo: 1
+curry_dip_ -> green_onions_chopped_: 3, worcestershire_sauce: 1, mayonnaise_no_dressing_: 1, curry_powder: 1
+curry_lime_dip -> mayonnaise: 1, garlic_minced: 1, dijon_mustard: 2, curry_powder: 1, lime_juice: 4
+curry_puffs -> syrup_from_chutney: 1, recipe_for_two_crust_pastry: 1, curry_powder: 1, finely_chopped_cooked_lamb: 2, condensed_cream_of_mushroom: 5, season_all: 1
+dallas_cowboy_tacos -> sausage_medium_roll_: 1, onion_chopped_: 3, crescent_rolls: 2, velveeta_cheese: 1
+date_fried_won_ton -> walnut_meats_cut_fine: 3, pitted_dates_cut_fine: 1
+daube_glace -> consomme: 6, tabasco_sauce: 3, left_over_pot_roast: 1, cayenne_pepper: 3, green_pepper_cut_in_half: 3, worcestershire_sauce: 7, onion_cut_in_quarters: 1, vinegar: 1, clove_garlic: 1, salt: 4, water: 6, stalks_celery_cut_in: 2, lemon_cut_in_half: 3, unflavored_gelatin: 2
+deep_fried_squid_rings -> squid: 2, milk: 1, pepper: 9, salt: 1, italian_bread_crumbs: 4, flour: 3, eggs: 2
+deluxe_salmon_spread -> chopped_dried_dill: 1, cooked_canned_salmon: 1, lemon_juice: 2, horseradish: 1, pimento_diced: 2, tarragon_vinegar: 1, green_pepper_diced_: 2, mayonnaise: 1
+desperation_diet_dip -> low_cal_cottage_cheese: 1, mayonnaise: 1, finely_chopped_parsley: 4, wine_vinegar: 1, cloves_of_fresh_garlic_: 3
+deviled_crab_quiche -> lard_diced: 5, finely_grated_cheddar_cheese: 3, cayenne_pepper: 5, bacon_chopped: 6, cold_margarine_diced: 5, cold_water: 3, half_and_half: 5, onion_chopped: 2, chili_seasoning: 3, all_purpose_flour: 2, salt: 3, crabmeat_flaked: 4, mustard_powder: 3, eggs: 3
+deviled_eggs -> prepared_mustard: 3, hard_cooked_eggs: 3, mayo_or_salad_dressing: 2, pepper: 1
+deviled_ham_puffs -> bread_croutes_cm: 3, cream_cheese: 8, onion_finely_chopped: 1, grated_cheese: 1, butter: 2, chives: 2, egg_yolk: 1
+deviled_rock_lobster_or_crab -> juice_of_lemon: 1, parmesan_cheese: 2, lobster_tails_or_: 8, dried_mustard: 2, dash_tabasco_sauce: 1, lump_crabmeat: 1, milk: 2, sherry: 5, butter: 5, med_onion_grated: 1, salt: 2, flour_heaping: 4
+deviled_smelt -> smelt_thawed_if_frozen: 3, dry_mustard: 1, cayenne_pepper: 5, paprika: 3, all_purpose_flour: 5, salt: 5, finely_grated_lemon_peel: 1, chopped_fresh_parsley: 2
+deviled_tomatoes -> fresh_white_bread_crumbs: 3, grated_parmesan_cheese: 1, garlic_clove_crushed: 1, cayenne_pepper: 5, firm_tomatoes: 4, butter: 2, dry_mustard: 5, paprika: 3, chopped_fresh_parsley: 1
+devilishly_delicious_eggs -> pace_thick_chunky_salsa: 4, crisply_cooked_bacon_slices_: 2, mayonnaise: 1, hard_cooked_eggs: 6, pace_picante_sauce: 4
+devilled_crabs -> cream: 1, flour: 2, mace: 5, butter: 1, eggs_hard_boiled_mashed: 4, worcestershire_sauce: 1, crabs: 3, parsley_minced: 1
+dijon_drambuie_dip -> drambuie_liqueur: 5, dijon_mustard: 5, mayonnaise: 7
+dill_dip -> chopped_parsley: 1, sour_cream: 1, seasoned_salt: 2, dill_weed: 1, celery_seed: 1, mayonnaise: 1
+dill_dip_in_rye_bread -> onion_flakes: 2, dill_weed: 2, parsley_flakes: 2, sour_cream: 1, mayonnaise: 1
+dill_vegie_dip -> sour_cream: 3, finely_chopped_dill_weed: 2, mayonnaise: 3
+dip_in_sour_dough -> leek_or_vegetable_soupmix: 1, chopped_spinach_frozen: 1, sour_cream: 2, garlic_clove_minced: 1, sour_dough_loaf_round: 1, water_chestnuts_chopped: 1, mayonnaise: 1
+dippy_snacks -> cottage_cheese: 1, stick_cup_butter_or: 1
+domestic_boursin_cheese -> butter: 4, minced_parsley: 1, freshly_grated_parmesan: 2, of_marjoram: 1, cream_cheese: 3, garlic_powder: 5, of_thyme: 1, dry_white_wine: 1
+domesticated_chick_pea_dip -> chick_peas_cooked: 3, black_pepper: 5, garlic_cloves: 6, lemon_juice: 3, olive_oil: 1
+easy_cheese_and_shrimp_gyozas_east_west_ -> chicken_stock: 5, fresh_water_chestnuts_: 5, cornstarch: 1, oil: 1, round_siu_mai_wrappers_or: 1, grated_monterey_jack_cheese: 6, green_onions_chopped: 2, chopped_fresh_coriander: 4, heavy_cream: 4, lime_juice: 1, dry_sherry_or_rice_wine: 2, salt: 4, medium_shrimp_to_per: 3, finely_minced_ginger_or: 1, chinese_sausages_finely: 2
+easy_cheesy_artichoke_dip -> freshly_grated_parmesan: 1, pace_thick_chunky_salsa: 3, mayonnaise_light_or_reg_: 7, artichoke_hearts_oz_: 1, pace_picante_sauce: 3
+easy_mexican_chicken_and_rice -> onion_chopped_: 1, skinless_chicken_breast: 4, salsa_the_one_you_like_: 1, chicken_bullion_cubes: 2, water: 6, converted_rice: 1
+eels_in_piquant_sauce_all_i_pebre_ -> blanched_almonds: 5, paprika: 1, eel: 4, hot_water: 2, saffron: 5, garlic_cloves_chopped: 3, olive_oil: 2, chopped_fresh_parsley: 2
+egg_pancake_rolls_with_pork_filling -> dry_sherry: 1, eggs: 4
+egg_plant_fritters -> butter: 2, egg_beaten: 1, egg_plant: 1, salt: 1, pepper: 5
+eggplant_caviar_dip -> fresh_parsley_minced: 2, dried_basil_crushed: 1, eggplant_about_lb_: 1, cloves_garlic: 2, lemon_juice: 1, fresh_basil_chopped: 1, soy_sauce: 3, fresh_tomato_chopped: 1, olive_oil: 2, green_onion_diced_use_all: 2
+eggplant_imam_bayildi -> allspice: 5, eggplants: 2, tomato_chopped: 1, currants_soaked_in_cold: 1, parsley: 3, clove_garlic: 1, bay_leaf: 1
+elegant_crabmeat_balls -> sherry_cooking_wine: 3, bacon_cut_into_halves_: 1, dry_mustard: 1, bread_crumbs_fresh_: 1, onion_grated_: 1, crabmeat_oz_cans_: 2, salt: 3, lemon_juice: 1
+empanadas_brazilian_meat_pies_ -> shortening: 1, chicken_legs: 3, egg_yolk: 1, oil: 1, cooked_peas: 5, egg_beaten_with_a_pinch_of: 1, cold_water: 4, whole_eggs: 2, butter: 1, flour: 7, clove_garlic_minced: 1, tomato_paste: 2, salt: 2, bay_leaf: 1, pitted_green_olives_chopped: 8, onion_finely_chopped_about: 1
+flavorings_for_main_course_crepes -> dried_herbs: 1, fresh_herbs: 1, grated_lemon_rind: 1, brandy: 1
+for_the_elegant_set_menu_recipes_ -> pacakge_softened_cream: 8, onion_juice: 1, jar_of_caviar: 1
+freezer_log -> worcestershire_sauce: 3, sharp_cheddar_cheese: 3, dry_mustard: 1, cooked_bacon: 8, mayonnaise: 2
+french_onion_rings -> baking_powder: 1, flour: 6, oil: 1, beer: 1, white_onions: 2, salt: 5, beaten_egg: 1
+french_onion_dip -> miracle_whip: 3, sour_cream: 2, french_onion_soup_mix: 1
+french_style_herbed_cheese -> pkg_softened_cream_cheese: 8, milk: 2, pepper: 9, crushed_dried_oregano_leaves: 5, garlic_powder: 9, onion_powder: 9
+fresh_corn_and_sausage_fritters -> baking_powder: 1, egg_yolks_beaten: 2, milk: 2, sausage_cooked_and_crumbled: 1, paprika: 5, all_purpose_flour_sifted: 1, salt: 1, pepper: 9, fresh_corn_off_the_cob: 1, egg_whites_beaten_stiff: 2
+fresh_fruit_dip -> grated_lemon_peel: 2, egg_beaten_: 1, lemon_juice: 2, sugar: 3, whipping_cream_whipped_: 1, grated_orange_peel: 1
+fresh_vegetable_pizza -> chopped_green_onions: 3, sour_cream: 8, pillsbury_crescent_rolls: 2, pepper: 9, small_broccoli_florets: 1, salt: 5, prepared_horseradish: 4, fresh_mushrooms_chopped: 2, chopped_seeded_tomatoes: 1, chopped_green_peppers: 3
+fried_catfish_batter -> salt: 1, jar_prepared_mustard: 1, sherry_or_brandy_optional_: 1, black_pepper: 3, cornmeal: 1
+fried_deviled_camembert -> dry_bread_crumbs: 5, dry_mustard: 3, cayenne_pepper: 4, dried_mixed_herbs: 3, all_purpose_flour: 2, pieces_fairly_firm_camembert: 4, egg_beaten: 1, hot_chili_powder: 3
+fried_fish_balls -> fine_dry_breadcrumbs: 7, milk: 3, lemon_juice: 5, pepper: 5, salt: 2, eggs_beaten: 2, finely_chopped_green_pepper: 3, freshwater_trout_fillets_: 3, chopped_fresh_parsley: 1, spicy_brown_mustard: 2, finely_chopped_onion: 3
+fried_leeks_with_tarragon -> leeks_about_in_thick_: 4, tarragon: 1, egg: 1, finely_chopped_parsley: 1
+fried_yam_puffs_epok_epok_keladi -> softened_butter: 2, cornflour_in_t_water: 3, prawns: 4, msg: 4, spring_onion_chopped: 1, salt: 4, sugar_gula_melaka: 2, soy_sauce: 3, oyster_sauce: 3, yam_cut_into_small_pieces: 4, sugar: 1, meat_minced: 4, onions_chopped: 3, mushrooms_diced: 2, frozen_green_peas: 2, cooking_oil: 2, tapioca_flour: 2
+fritto_misto -> freshly_ground_pepper: 5, eggs_seperated: 4, melted_butter: 4, beer: 3, salt: 4, sifted_flour: 2
+frosted_liver_pat_ -> braunschweiger: 1, garlic_clove_crushed: 2, drops_hot_pepper_sauce: 3, package_cream_cheese_: 8, basil_leaves: 3, mayonnaise_or_salad_dressing: 4, finely_chopped_onion: 5
+frozen_guacamole -> canned_chilli_peppers: 1, onion_finely_chopped: 5, white_vinegar: 4, avocados_: 4, salt: 1, tomato_peeled_and_chopped: 1
+fruit_dip -> cream_cheese: 8
+fruited_cheese_log -> dry_sherry: 4, dried_apricots: 3, monterey_jack_cheese_shred: 1, cream_cheese_softened: 8, poppy_seed_optional_: 1, seasoned_salt: 3, golden_raisins: 4, dates_chopped: 4
+gado_gado -> sesame_oil: 5, lemon_juice: 3, water: 4, white_cabbage: 8, fresh_bean_sprouts: 6, smooth_peanut_butter: 4, shallots_finely_chopped: 2, ground_cumin: 3, fresh_green_chili_seeded_: 1, green_bell_pepper_seeded_: 1, garlic_clove_crushed: 1, hot_pepper_sauce: 3, onion_cut_in_fourths_: 1
+gado_gado -> cloves_crushed_garlic: 2, to_ts_freshly_grated: 1, honey: 1, cayenne_pepper: 5, of_dark_soy_sauce: 1, tablespoons_cider_vinegar: 1, peanut_butter: 1, water: 3, to_tsp_salt: 3, chopped_onion: 1, bay_leaf: 1
+gamberi_alla_pasquale_shrimp_with_special_lemon_sauce_ -> drop_tabasco_sauce: 2, shrimp_deveined: 6, heavy_cream: 4, lemon_juice_of: 1, head_lettuce_shredded: 3, tomato_paste: 2, chopped_parsley: 1, drop_worcestershire_sauce: 2, apple_cored_and_finely: 1, brandy: 2
+garlic_buttered_shrimp -> margarine_or_butter: 5, fresh_peeled_and_deveined: 1, snipped_fresh_parsley: 1, red_pepper: 1, clove_garlic_minced: 1, dry_white_wine: 3
+garlic_clam_dip -> worcestershire: 4, clam_broth: 5, cream_cheese: 8, fresh_ground_pepper: 1, salt: 3, clams_drained_and_minced: 7, garlic: 3, lemon_juice: 2
+garlic_coeurs_a_la_creme -> garlic_puree_: 1, plain_yogurt: 2, cheese_: 1, low_fat_cottage_cheese: 1
+garlic_mayonnaise_dip -> green_onion_finely_chopped: 5, garlic_minced: 1, olive_oil: 5, mayonnaise: 2
+garlic_olives -> sherry_or_vinegar: 5, bay_leaves: 3, garlic_cloves_slivered: 2, black_peppercorns: 1, lemon_thin_slices_: 3, canned_green_olives_drained: 2
+garlic_stuffed_mushrooms -> unbleached_all_purpose_flour: 4, bread_crumbs: 4, mushrooms: 3, coarsely_ground_pecans: 4, fresh_parmesan_cheese_: 4, garlic_bechemel: 5, scallions_sliced: 2, unsalted_butter: 7
+garlic_cheese_and_nut_dip -> fresh_dill_chopped: 1, cheddar_sharp_shredded: 1, garlic_cloves: 2, cream_cheese_softened: 3, curry_powder: 4, paprika: 4, white_onion_diced: 5, walnuts_chopped: 4, dried_dill_crushed: 1, chili_powder: 4, sour_cream: 3
+garlicky_clam_dip -> worcestershire: 4, clam_broth: 5, cream_cheese: 8, fresh_ground_pepper: 1, salt: 3, clams_drained_and_minced: 7, garlic: 3, lemon_juice: 2
+garlicky_garbanzo_bean_dip -> tahini_sesame_paste: 3, cumin_ground: 1, garbanzo_beans_cooked: 3, water: 5, lemon_juice: 4
+hummus_ -> dry_chick_peas: 2, jar_tahini: 1, garlic_cloves: 3, cumin_powdered_optional_: 2, lemon: 1, soy_sauce_natural_tamari_: 5
+hungarian_spiced_cheese_dip -> cottage_cheese: 1, green_onion_chopped_use_all: 2, caraway_seeds: 1, mustard_dry: 3, capers_mashed: 1, hungarian_paprika: 2, sour_cream: 3
+impossible_cheddar_and_broccoli_appetizers -> walnuts_coarsely_chopped: 3, whole_kernal_corn_drained: 8, milk: 3, cheddar_cheese_shredded: 1, onion_chopped: 5, frozen_chopped_broccoli_: 1, bisquick: 3, garlic_salt: 5, butter_melted: 5, eggs: 2
+indian_chicken_balls -> chopped_chutney: 1, of_grated_coconut: 3, curry_powder: 1, cream_cheese: 3, chopped_cooked_chicken: 1, salt: 3, blanched_almonds_or_pecans_: 1, mayonnaise: 2
+italian_marinated_mushrooms -> freshly_ground_pepper: 5, fresh_mushrooms: 1, lemon_juice: 5, olive_oil_vegetable_oil_may: 3, green_onions_with_tops_: 2, salt: 7, chopped_fresh_parsley: 5, clove_garlic_finely_chopped: 1
+italian_pepper_dip -> italian_creamy_dressing: 3, sweet_red_pepper: 3, chopped_fresh_parsley: 5
+jalapenos_stuffed_with_chorizo_and_cream_cheese -> finely_minced_onion: 1, cream_cheese_softened: 2, vegetable_oil: 1, clove_garlic_finely_minced: 1, jalapenos_seeded_halved: 3, chorizo_mexican_sausage_: 3, sour_cream: 1
+jalepeno_cheese_crackers -> cheddar_cheese_cubes: 3, mustard_dry: 5, jalapeno_pepper: 1, cornmeal: 5, butter_cold_: 4, flour_all_purpose: 7, salt: 3, chili_powder: 5, water_ice: 4
+jamaican_beef_patties -> shortening: 6, each_ground_allspice_and: 1, green_bell_pepper_stemmed_: 1, ground_beef: 7, eggs_lightly_beaten: 2, tomatoes_minced: 4, all_purpose_flour: 4, green_onions_minced: 1, onion_diced_fine: 1, to_tbsp_ice_water: 6, salt: 1, jalapeno_chilies_seeded_: 3, garlic_cloves_minced: 4, vegetable_oil: 3, each_ground_coriander_: 2
+jerky -> lawry_s_seasoned_salt: 2, garlic_powder: 2, coarsely_ground_black_pepper: 2, gebhardt_chili_powder: 2
+ketchup -> cinnamon: 3, gallons_ripe_tomatoes: 4, allspice: 3, stalks_celery: 5, granulated_sugar: 3, onions: 2, green_peppers: 2, ground_cloves: 5, apple_cider_vinegar: 2, salt: 3
+lamb_tartare -> freshly_ground_pepper: 5, minced_fresh_marjoram: 1, minced_fresh_oregano: 1, minced_green_onion: 5, medium_ground_cracked_wheat: 3, salt: 3, minced_fresh_basil: 2, water: 3, minced_fresh_parsley: 5, well_trimmed_lamb_from_loin: 9, red_pepper_flake: 1
+larry_dunlap_s_world_famous_stuffed_mushrooms -> progresso_italian: 3, capped_fresh_mushrooms: 4, bacon: 5
+layered_fiesta_dip -> each_grated_cheddar_and: 1, each_chopped: 10, jar_gram_salsa: 1
+lemon_tarragon_dip -> mayonnaise: 1, capers: 2, fresh_tarragon_chopped_or: 4, dried_tarragon_crushed: 4, lemon_juice: 1
+lemon_basil_carrot_bundles -> grated_lemon_rind: 5, garlic_minced: 1, lemon_juice: 1, green_onions: 6, dried_whole_basil: 1, sugar: 1, carrots_scraped: 6, lemons_thinly_sliced: 3, water: 5, olive_oil: 1
+lemon_orzo_pilaf -> grated_lemon_rind: 1, orzo_pasta: 1, water: 1, chicken_broth_reduced_sodium: 12, dried_leaf_basil_crumbled: 1
+light_spinach_dip -> bunches_fresh_spinach_: 4
+light_style_fiesta_shrimp_dip -> ground_cumin: 7, thinly_sliced_green_onions: 4, horseradish_as_desired: 2, light_cream_cheese_softened: 1, frozen_cooked_shrimp_: 1, light_mayonnaise: 5, pace_picante_sauce: 5
+linda_s_potato_skins -> butter: 4, milk_you_can_add_these: 4, baking_potatoes: 6, green_onion_thinly_sliced: 4, butter_mashed_potato: 5, cheddar_cheese_shredded: 7, bacon_fried_and_crumbled: 6
+liptauer_cheese_ -> anchovy_fillets_: 2, shallot_minced: 1, cream_cheese_softened: 6, caraway_seeds: 3, butter_softened: 5, sweet_paprika: 1, capers_drained: 1
+liptauer_cheese_ -> prepared_mustard: 4, cream_cheese: 1, chopped_parsley: 2, caraway_seeds: 4, butter: 3, chopped_capers: 2, grated_onion: 1
+little_wieners_and_orange_sauce -> hot_dogs_cut_into_bites_: 2, cinnamon: 5, cornstarch: 3, vinegar: 5, sugar: 3, orange_juice: 4, cloves_whole: 8
+liver_loaf -> liver: 7, chopped_fresh_sage: 4, bacon_diced: 3, dry_white_wine: 3, freshly_ground_black_pepper: 5, veal_or_pork_stew_meat: 3, minced_garlic: 2, eggs: 2
+lobster_fondue_dip -> dry_white_wine: 4, butter_or_margarine: 2, shredded_sharp_cheddar: 2, lobster_cut_into_small: 5, red_pepper_sauce: 5
+lobster_pate -> cream_cheese_softened: 8, lobster_meat_finely_chopped: 4, seasoned_salt: 3, dill_weed: 9, dry_white_wine: 5, onion_salt: 3
+lobster_spread -> finely_chopped_cooked: 3, mayonnaise: 3
+longhorn_quick_chili_dip -> cottage_cheese: 1, cumin_ground: 4, chili_with_beans: 6, lemon_juice: 1, hot_sauce: 1, cheddar_sharp_shredded: 7
+louis_dressing -> chili_sauce: 3, onion_grated: 3, pepper: 9, mayonnaise_use_the_real: 1, salt: 9, lemon_juice_fresh_not: 1, horseradish_prepared: 1, parsley_fresh_minced: 1
+low_calorie_clam_dip_for_vegetables -> cottage_cheese: 1, thyme: 9, chopped_chives: 1, salt: 5, gorton_s_clams_drained: 1
+lower_east_side_lox -> fresh_chives_chopped_or: 5, lox_or_smoked_salmon_cubed: 3, cream_cheese_softened: 1, sour_cream: 3, white_pepper: 9, onion_white_chopped: 2, whipping_cream: 1, dried_chives_crushed: 4
+madras_dip -> hard_boiled_eggs: 2, curry_powder: 2, onion_grated_: 1, celery_grated_: 2, green_pepper_grated_: 2, sour_cream: 2
+marinated_prawns -> stuffed_green_olives_juice: 1, prawns_cooked_and_cleaned: 3, cloves_garlic: 4, oregano: 1, oil: 1, white_vinegar: 2, onion_sliced: 1, carrots_parboiled_sliced: 2, whole_chilis: 6
+marinated_mushrooms_ -> white_wine_vinegar: 2, minced_shallots_or_onions: 5, white_wine: 5, mushrooms: 1, ground_coriander: 3, minced_garlic: 1, olive_oil: 2, lemon_juice: 2
+marinated_spiced_olives -> allspice_berries: 3, mustard_seeds: 1, lemon_slices: 3, dried_red_chilies: 3, pimiento_stuffed_green: 7, garlic_cloves_crushed: 2, pitted_ripe_olives: 7, olive_oil: 8, black_peppercorns: 1
+marinated_beef_roll -> parsley_chopped: 2, onions_sliced_green: 5, roast_beef_deli_thin_slice: 6, pimento_diced: 3, eggplant_chopped_pickled: 5, olives_green_spanish: 5, eggs_hard_cooked_quartered: 2
+mexican_dairy_dip -> chili_powder: 2, each_of_cumin_salt_hot: 3, cream_cheese_spread: 1
+microwave_cauliflower_pick_ups -> tarragon_leaves_crushed: 1, dry_bread_crumbs: 5, pepper: 1, grated_parmesan_cheese: 5, butter_or_margarine: 4, salt: 3, paprika: 1, head_cauliflower: 1
+mini_monte_cristo_sandwiches -> swiss_or_fontina_: 4, milk: 3, env_golden_onion_soup_mix: 1, butter: 5, prepared_mustard: 2, butter_softened: 2, cooked_ham: 4, slices_white_bread: 8, eggs: 3
+mini_pizza -> catsup: 2, oregano: 1, sausage: 1, ground_beef: 1, worchestershire_sauce: 4, velveeta_cheese: 1
+mini_sausage_rubens -> butter: 4, loaf_party_rye_bread: 1, saurkraut: 7, smoked_sausage: 3, slices_of_swiss_cheese: 1, thousand_island_dressing: 1
+mini_quiches -> shredded_sharp_cheddar: 4, cottage_cheese_small_curd: 8, bisquick_i_used_recipease_: 3, melted_butter: 5, dozen_so_be_sure_to_at_least: 4, eggs: 3, sour_cream: 5
+miniature_puff_appetizers_and_fillings -> box_oz_frozen: 1, sour_cream: 4, vegetable_dry_soup_mix: 1, chili_sauce: 1, flour: 1, butter_margarine: 3, salad_dressing: 3, prepared_mustard: 3, dried_french_onion_soup_mix: 2, chopped_water_chestnuts_: 1, water: 1, eggs: 4
+minted_veggie_dip -> light_sour_cream: 7, cucumber_: 1, assorted_raw_veggies_: 8, plain_non_fat_yogurt: 6, fresh_mint_chopped: 1, cloves_garlic_minced: 3
+mixed_italian_olives -> red_pepper_chopped: 1, stalks_celery_chopped: 3, vinegar: 5, green_olives: 3, garlic_clove_crushed: 1, black_olives: 3, green_pepper_chopped: 1, olive_oil: 5
+mock_caviar -> finely_chopped_hard_boiled: 2, lemon_juice: 2, thinly_slice_green_onions: 1, ripe_olives_finely_chopped: 4, cans_chopped_ripe_olives_or: 2, salad_oil: 1, dairy_sour_cream: 4, chopped_anchovies: 1
+mom_s_sweet_and_sour_meatballs -> ground_beef: 2, egg: 1
+mom_s_tidbits -> cheerios_cereal: 2, salted_peanuts_or_almonds: 2, shreddies_cereal: 2, worcestershire_sauce: 2, thin_pretzel_sticks: 2, celery_salt: 1, garlic_salt: 3, vegetable_oil: 4, dill_weed_opt_added_my_mum: 3
+moms_dill_dip -> hellmanns_mayonnaise: 5, sour_cream: 4, dry_parsley: 1, dill_weed: 1, tabasco_sauce: 2, onion_flakes: 1, worcestershire_sauce: 1, accent: 3, seasoned_salt: 1
+nutty_cheese_ball -> grated_onion: 1, chopped_walnuts_or_pecans: 18, cream_cheese: 3, worcestershire_sauce: 1, bleu_cheese: 5, grated_cheddar: 5
+obatzda_cheese_spread_ -> camembert: 14, onions_finely_chopped: 2
+old_english_sherry_cheese_puffs -> margarine_or_butter: 5, all_purpose_flour: 3, sherry: 1, salt: 5, jar_old_english_: 5, water: 3, eggs: 2
+oysters_poached_in_white_wine -> garlic_clove_crushed: 1, freshly_shucked_oysters: 7, dried_thyme: 5, dried_chervil: 5, fresh_lemon_juice: 2, dry_white_wine: 6, white_pepper: 5, salt: 5, chopped_fresh_parsley: 1, olive_oil: 2
+oysters_rockefeller_gourmet_magazine -> slices_lean_bacon: 3, fresh_parsley_minced: 3, anchovy_paste: 1, cayenne_pepper: 9, scallion_minced: 1, unsalted_butter: 1, dry_bread_crumbs_fine: 9, fresh_spinach_wash_dried: 3, oysters_in_shells: 9, garlic_cloves_minced: 3, boston_lettuce_wash_dried: 1, celery_minced: 5, pernod: 2
+oysters_rockefeller -> scallions_finely_chopped: 1, open_the_oysters_leaving: 2, heavy_cream: 3, clove_garlic_finely_minced: 1, oysters: 9, celery_finely_chopped: 3, parsley_finely_chopped: 3, to_tb_pernod_or_other: 1, preheat_oven_to_dg_: 1, flour: 1, spinach_fresh: 1, butter: 8, anchovies_ounce_: 1
+oysters_rockefeller_gourmet_mag_ -> bacon_lean: 3, fresh_parsley_minced: 3, anchovy_paste: 1, cayenne_pepper: 9, unsalted_butter: 1, dry_bread_crumbs_fine: 9, oysters_in_shells: 9, boston_lettuce_washed_drie: 1, garlic_cloves_minced: 3, scallion_minced: 1, celery_minced: 5, pernod: 2, fresh_spinach_washed_dried: 3
+oysters_thomas -> oysters_fresh: 7, lump_crab_meat: 1, dry_bread_crumbs: 5
+pace_con_queso_dip -> velveta_process_cheese: 1, pace_picante_sauce: 3
+pace_cream_cheese_dip -> cream_cheese: 8, pace_picante_sauce: 4
+pace_guacamole -> salt: 5, pace_picante_sauce: 5, lemon_juice: 2, ripe_avocados_peeled_: 2
+panzerotti_master_recipe -> to_inch_panzerotti_: 4
+papadakis_stuffed_grape_leaves -> parsley_chopped: 1, oregano: 3, olive_oil: 3, jar_grape_leaves_: 1, fresh_lemon_juice: 3, yellow_onion_chopped_fine: 1, salt: 3, pepper: 3, ground_lamb: 4, fresh_mint_chopped: 1, pine_nuts: 1
+papaya_cucumber_salsa -> white_wine_vinegar_or_lime: 2, diced_peeled_papaya_or_mango: 2, chopped_fresh_dill: 2, finely_diced_english: 2
+parmesan_pine_cone -> sliced_almonds: 1, cream_cheese_softened: 3, dried_oregano: 3, grated_parmesan_cheese: 3, fresh_oregano_chopped_or_: 4, crushed_garlic_clove: 1, mayonnaise: 5
+party_cheese_log -> of_salt: 1, lemon_juice: 4, worcestershire_sauce: 2, finely_chopped_onion: 1, chopped_red_pepper_or: 1, of_ground_red_pepper: 1
+party_crab_special -> cream_of_mushroom_soup: 1, knox_gelatin: 4, salt: 3, celery_finely_chopped: 1, worcestershire_sauce: 1, cold_water: 5, onion_minced: 1, mayonnaise: 1
+party_fodder -> slim_pretzel_sticks: 5, bite_size_rice_chex: 6, garlic_salt: 2, oleo_or_butter_melted: 1, box_wheat_chex: 3, or_cans_mixed_nuts: 1, worcestershire_sauce: 2, scant_tbsp_garlic_powder: 1, box_cheerios: 1
+party_meatballs -> vegetable_oil: 1, italian_bread_crumbs: 3, garlic_powder: 1, ground_lamb: 1, egg_slightly_beaten: 1
+party_mix_ -> sesame_seed_toasted: 2, barbeque_sauce: 1, mixed_nuts: 2, wheat_cereal_bite_sized: 1, bon_appetit: 2, butter: 3, rice_cereal_bite_sized: 2, corn_cereal_bite_sized: 2, garlic_powder: 5, thin_pretzel_sticks: 1
+party_mix_ -> of_your_favorite_corn_wheat: 7, salted_nuts: 7, pretzel_sticks: 1, lea_perrins_original: 4, lawry_s_seasoned_salt: 1, melted_butter_or_margarine: 6
+pesto_dip -> miracle_whip: 1, frozen_chopped_spinach_: 1, sour_cream: 1, grated_parmesan_cheese: 4, walnut_pieces: 5, dried_basil: 1, salt: 5, clove_crushed_garlic: 1
+phyllo_eating_well_s_low_fat_method -> our_recipes_were_devloped_for: 7, these: 25
+pickled_eggs_ -> white_vinegar: 2, salt: 1, mixed_whole_spices_in_bag_: 1, cold_water: 1, eggs: 3
+pickled_eggs_ -> cider_vinegar: 1, onion_chopped: 5, whole_cloves: 4, sugar: 4, salt: 3, hardcooked_eggs: 6, beet_liquid: 1
+pickled_mushrooms -> boiling_water: 4, salt: 4, small_mushrooms: 4
+raclette_style_cheese -> shredded_process_gruyere_or: 4, dijon_style_mustard: 2, snipped_fresh_basil_or: 1, white_wine: 1, shredded_gouda_cheese_: 1
+raisin_cream_cheese_spread -> sherry_medium_dry: 4, cream_cheese_room_temp_: 8, chutney_chopped: 2, salt: 5, ginger: 3, raisins_or_currants: 4
+randy_red_salsa_dip -> garlic_minced: 4, onion_coarsely_chopped: 5, lime_juice: 7, fresh_tomatoes_diced: 2, jalapeno_pepper_coarse_chop: 1, salt: 9, fresh_cilantro_chopped: 1, oregano_dried: 5
+ravioli_filled_w_pumpkin -> room_temperature_egg: 4, single_amaretto: 6, freshly_grated_parmesan: 3, semolina_flour: 1, warm_water: 2, egg: 2, clarified_unsalted_butter: 7, all_purpose_flour: 2, salt: 6, fresh_grated_nutmeg: 5, freshly_ground_white_pepper: 5, olive_oil: 4, solid_pack_pumpkin: 1
+raw_mushroom_dip -> cream_cheese: 6, salt: 3, fresh_mushrooms_fine_chop: 1, minced_onion: 1
+raw_mushroom_appetizers -> chopped_stuffed_olives: 2, softened_cream_cheese: 8, can_deviled_ham: 7, very_fresh_mushrooms: 2
+red_bean_paste_cakes -> or_lbs_of_red_bean: 2
+red_bell_pepper_and_cheddar_cheese_spread -> red_bell_peppers: 2, cloves_garlic_peeled: 3, tillamook_cheddar_cheese_or: 4, chives_fresh_chopped: 2, onion_quartered: 3, olive_oil: 2
+red_cheese_ball -> worcestersire_sauce: 3, garlic_salt: 1, package_cream_cheese_: 3, onion_salt: 1, chedder_cheese_finely: 3, sherry: 3, coarsely_snipped_dried_beef: 3, celery_salt: 1, coarsely_chopped_pitted: 5
+red_devil_eggs -> deviled_ham: 4, mayonaisse: 2, eggs_hard_cooked: 6, grated_onion: 1, worcestshire_sauce: 3, mustard: 1
+red_sockeye_salmon_special -> fresh_salmon_flaked_or: 7, lemon_juice: 1, mayonnaise: 3, salmon_canned_well_drained: 8, dried_dill_crushed: 3, white_onion_finely_diced: 3, whipping_cream: 5, fresh_dill_chopped_or: 4
+refried_bean_dip -> tabasco_sauce: 3, chili_powder: 3, sour_cream: 3, chopped_onion: 2, refried_beans: 1
+rice_stuffed_artichokes -> sliced_green_onion: 5, beaten_egg_yolk: 1, artichokes: 2, cooked_rice: 1, lemon_juice: 3, cornstarch: 7, butter_or_margarine: 2, chicken_broth: 3, water: 5, shredded_carrot: 3, dried_sage_crushed: 5
+rice_stuffed_mushrooms -> chili_sauce: 1, cooked_extra_long_grain_rice: 1, fresh_mushrooms: 6, lemon_juice: 1, minced_onion: 3, ground_black_pepper: 5, butter_or_margarine: 1, salt: 1, melted_butter: 5, finely_chopped_nut_meats: 3
+rip_dip -> cayenne_ground: 9, nutmeg_ground: 5, bread_round_hollowed_out_: 1, milk: 3, lemon_juice: 1, spinach_frozen_chopped: 2, cream_cheese_oz: 2, water_chestnuts_chopped: 4
+roasted_red_and_green_pepper_dip -> dried_parsley_crushed: 1, mayonnaise: 4, sour_cream: 3, green_bell_pepper: 1, red_bell_pepper: 1
+salmon_balls -> liquid_bbq_sauce: 3, fresh_parsley_chopped: 5, salmon_drained_and_flaked: 5, onion_grated: 1, lemon_juice: 1, horseradish: 2, cream_cheese: 8, walnuts_or_pecans_chopped: 1, salt: 5
+salmon_ball -> lemon_juice: 1, cream_cheese_oz_: 1, horseradish_mustard: 1, salt: 3, salmon_drained_: 2, chopped_onion: 1
+salmon_cheese_ball -> tarragon: 1, sour_cream: 1, pepper: 1, package_cream_cheese: 8, salt: 1, chopped_onion: 5, smoked_salmon: 4, lemon_juice: 1
+salmon_dip -> cream_cheese: 6, red_sockeye_salmon: 1, juice_from_a_lime: 3, onion_chopped_: 4
+salmon_dip_ball -> hard_boiled_eggs_mashed: 3, mayonnaise: 2, pimiento_chopped: 3, vinegar: 1, smoked_salmon_flaked: 1
+salmon_log_tom_adams -> liquid_smoke: 5, pecans: 3, lemon_juice: 1, snipped_parsley: 3, horseradish: 1, grated_onion: 2, salt: 5, can_salmon_drained_: 7, pkg_cream_cheese: 8
+salmon_pate_ -> liquid_smoke_: 5, lemon_juice: 1, minced_onion: 2, cream_cheese: 8, horseradish: 1, chopped_fresh_parsley: 2, cooked_salmon: 1
+salmon_pate_ -> whitefish: 3, ground_nutmeg: 5, diced_onion: 3, salmon: 7, unsalted_butter: 1, whipping_cream: 3, ground_white_pepper: 1, ground_coriander: 1, dry_white_wine: 3, salt: 1, eggs: 4, white_bread: 1, egg_whites: 3
+salmon_rollups -> egg_beaten_: 1, parsley_dried_: 1, dill_weed: 3, cresent_rolls: 1, salmon_drained_flaked_: 14, instant_minced_onions: 1
+salmon_with_leek_foudue -> side_of_salmon_cut_in_oz: 3, butter: 3, white_wine: 3, leeks: 6, vegetable_bouillon: 1, shallots: 2, light_cream: 1, to_ea_sprigs_of_saffron: 5
+salsa_bandera -> cucumber_finely_chopped: 1, tomatoes_finely_chopped: 3, bunch_cilantro_no_stems_: 3, pepper: 1, oil: 5, vinegar: 5, bunch_green_onions_tops_to_: 1, salt: 1, onion_large_finely_chopped: 1, radishes_finely_chopped: 3, juice_from_squeezed_lemon: 1
+salsa_con_queso_dip -> pace_thick_chunky_salsa: 3, velveeta_process_cheese: 1
+salsa_de_linda -> whole_tomatoes_oz_lbs_: 2, cumin: 1, oregano: 1, cayenne_pepper: 1, green_onions: 1, garlic_powder: 1, tomato_fresh: 1, vinegar: 1, jalapeno_pepper_fresh_: 1, sugar: 1, green_chiles_small_chopped: 1, green_chile_fresh: 1
+salsa_dip -> garlic_salt: 1, green_chilies_chopped: 1, tomatoes_chopped: 4, black_olives_chopped: 1, vinegar: 1, green_onions_chopped: 2, olive_oil: 1
+salsa_gruda_fresh_tomato_salsa_ -> med_tomatoes_peeled_: 4, red_wine_vinegar: 2, coriander_seeds_crushed: 1, green_pepper_finely_chopped: 5, mustard_seeds: 1, onions_finely_chopped: 3, of_pepper: 1, celery_finely_chopped: 3, olive_oil_or_vegetable_oil: 5, to_tbls_green_chiles_: 2, salt: 1
+shrimp_cheese_roll -> butter_melted_: 1, cooked_shrimp: 1, cresent_rolls: 1, muenster_cheese_shredded_: 4, pepper: 9, green_onion_slice_thin_: 5, salt: 3, egg_yolk_w_tb_water_opt_: 1, eggs: 2
+shrimp_cheese_pate -> soft_or_semi_soft_cheese: 4, jar_tiny_danish_shrimp: 1, sherry_medeira_or_cognac: 1
+shrimp_dip_ -> garlic_salt: 5, milk: 5, cheddar_cheese_cubed_: 8, onion_chopped_: 1, worcestershire_sauce: 1, shrimp_drained_: 5, tabasco_sauce: 3, mayonnaise: 1
+shrimp_dip_ -> cream_cheese: 8, cream_of_shrimp_soup: 1, of_garlic_salt_or_powder: 1, lemon_juice: 5, tiny_shrimp: 4
+shrimp_dunk -> peppercorns: 3, great_western_beer: 3, cl_garlic: 1, onion_sliced: 1, salt: 1, very_large_shelled_shrimp_r: 1, celery_top_and_leaves_: 1, bay_leaf: 1
+shrimp_hors_d_oeuvres -> cooked_cocktail_shrimp: 3
+shrimp_lejon -> shrimp_deveined_and: 6, horseradish_squeezed_dry: 3, bacon: 6
+shrimp_louis_dip -> chopped_green_pepper: 4, miracle_whip: 1, sour_cream: 1, prepared_horseradish: 1, salt: 5, chopped_cooked_shrimp: 2, fresh_ground_pepper: 9, chili_sauce: 5
+shrimp_ono_nui -> bottled_cocktail_sauce: 1, flour: 3, crushed_pineapple: 5, raw_jumbo_shrimp_peeled: 6, eggs_beaten: 2, shredded_coconut: 4
+shrimp_or_oysters_brochette -> juice_of_lemon: 1, cloves_of_garlic: 2, stick_of_butter: 1, bacon_for_each_shrimp: 3
+shrimp_paste -> butter: 3, cayenne_pepper: 9, shrimp_cooked_and_peeled: 1, nutmeg: 3, salt: 3, celery_salt: 9
+shrimp_pate -> tabasco_sauce: 1, butter_melted: 3, canned_shrimp: 3, fresh_lemon_juice: 4, catsup: 1, horseradish: 2, onion_minced: 1, mayonnaise: 4
+shrimp_rolls_cuon_tom_ -> or_rice_papers_cut_into: 1, fresh_pineapple_peeled_: 3, bean_sprouts: 2, head_boston_bibb_or_leaf: 1, medium_shrimp_unpeeled: 1
+shrimp_rolls -> loaf_of_thin_sliced_bread: 1, onion_chopped: 2, celery_chopped: 5, capers_chopped: 2, curry_powder: 3, shrimp_chopped_fine: 1, mayonnaise: 4, lemon_juice: 2
+shrimp_spread_ -> dill_weed: 5, can_shrimp_pieces_drained: 9, cream_cheese_softened: 3, lemon_juice: 1, mayonnaise: 4
+shrimp_spread_ -> pk_softened_cream_cheese: 9, lemon_juice: 5, pepper: 5, worcestershire_sauce: 1, prepared_horseradish: 1, garlic_powder: 9, cooked_shrimp_chopped: 3
+shrimp_stuffed_mushrooms -> soft_butter: 1, minced_tarragon: 1, egg: 1, minced_parsley: 1, cracker_crumbs: 1, minced_onion: 1, mushroom_caps_stems_removed: 6, finely_chopped_cooked_shrimp: 1
+shrimp_teriyaki -> clove_garlic_crushed: 1, sugar: 2, cornstarch: 4, minced_fresh_ginger_root: 1, soy_sauce: 3, medium_sized_raw_shrimp_: 2, water: 2, vegetable_oil: 1
+shrimp_toast -> minced_fresh_mint: 1, inch_long_french_bread: 5, pepper: 9, inch_thick_gingerroot: 11, egg_white: 1, medium_size_fresh_shrimp: 3, salt: 5, green_onion_cut_into_in_: 1
+shrimp_with_spicy_black_bean_spread -> shrimp_medium_lb_: 3, cilantro_leaves: 6, mustard_dijon: 1, oil: 2, lime_juice: 1, garlic_clove_minced: 1, black_bean_soup_dip: 2, lime_peel_grated: 9, jalapeno_chopped: 1, crackers: 6
+silky_apricot_cheese_dip -> cream_cheese_softened: 1, sour_cream: 1, almonds_blanched_slivered: 5, apricot_preserves: 7, brandy: 2, almond_extract: 1
+simple_pate -> dry_sherry: 2, sweet_butter_room: 7, chopped_truffles_optional_: 2, marjoram: 5, chicken_livers_cleaned: 2, brandy: 1
+simple_sausage_balls -> skinless_sausage_owen_s_hot: 1, grated_colby_or_mild_chedar: 1, pioneer_or_bisquick: 2
+skewered_mozzarella_with_canadian_bacon -> slices_french_bread: 3, slices_raw_tomato: 3, mozzarella_cheese: 3, grated_parmesan_cheese: 4, cans_tomato_sauce: 2, paprika: 1, salad_oil: 4, salad_oil_again: 1, sliced_canadian_bacon: 10
+smoked_fish_spread -> clove_garlic_crushed: 1, smoked_fish: 4, of_worcestershire_sauce: 1, finely_chopped_sweet_pickle: 2, prepared_mustard: 1, minced_onion: 2, finely_chopped_celery: 2, chopped_fresh_parsley: 2, mayonnaise: 6
+smoked_salmon_spread -> can_salmon_in_water_drained: 1, philly_lite: 8, philly_free: 3
+smoked_salmon_quesadillas -> thinly_sliced_smoked_salmon: 4, grated_fresh_horseradish_or: 2, chopped_fresh_dill: 2, inch_flour_tortillas: 8, soft_fresh_goat_cheese: 4
+smoked_salmon_canapes -> grated_lime_rind: 3, lime_wedges: 3, ground_black_pepper: 1, thin_strips_: 9, onion_powder: 5, worcestershire_sauce: 3, jicama_unpeeled: 4, smoked_salmon_cut_into: 2, oz_pkg_neufchatel: 11
+smoked_stuffed_artichoke -> green_onions_finely: 2, parsley_chopped: 1, bread_crumbs: 3, lemon_juice: 3, mushrooms_finely_chopped: 1, white_wine: 3, artichokes_fresh_ones: 4, grated_parmesan_cheese: 5, garlic_powder: 3, olive_oil: 6, ham_cooked_finely_chopped: 3
+smoked_tuna_pate -> tb_: 2, smoked_tuna_or_smoked: 1, to_tb_mayonnaise: 3, cream_cheese_softened: 6, very_finely_diced_red_onion: 2
+smoked_turkey_calzones -> tomato_med_slices: 1, part_skim_ricotta_cheese: 3, refrigerated_pizza_dough: 4, frozen_chopped_spinach: 2, smoked_turkey_thin_slice: 6, garlic_powder: 5, parmesan_cheese_grated: 1
+smokey_brie_spread -> brie_cheese_room_temp_: 7, cream_cheese_softened: 8, milk: 2, lemon_juice: 1, slices_bacon_fried_crisp: 4
+smoky_mushroom_tart -> egg_white_lightly_beaten: 1, ground_black_pepper: 9, dried_oregano_crushed: 2, smoked_mozzarella_cheese_: 3, grates_asiago_or_parmesan: 2, walnut_pieces: 4, chopped_flat_leaf_italian_: 1, butter_pastry_dough: 4, butter: 2, fresh_mushrooms_package_: 1, shitake_mushrooms_: 7, minced_fresh_garlic: 1
+smoky_salmon -> chopped_pecans: 5, liquid_smoke: 5, lemon_juice: 1, snipped_parsley: 2, horseradish: 2, grated_onion: 2
+smooth_and_spicy_boursin_cheese_dip -> cream_cheese_softened: 1, garlic_clove_crushed: 1, white_onion_finely_minced: 2, milk: 2, italian_seasoning: 1, butter_softened: 3, walnuts_minced: 2
+snails_bourguignonne_escargots_a_la_bourguignonne -> snail_butter: 3, canned_burgundy_snails: 1, oil: 3, large_paris_mushrooms: 6
+soft_pretzels -> envelope_yeast: 1, soda: 4, sugar: 1, warm_water: 6, flour_plus_extra_: 4, salt: 2
+sorrel_frittata -> boiling_salted_water: 3, sour_cream: 5, cayenne_pepper: 1, butter: 2, stems_removed_torn_sorrel: 3, minced_shallot: 5, boiled_until_tender_red: 1, eggs: 6
+souffleed_crepes -> flour: 7, milk: 1, sugar: 3, salt: 5, eggs_separated: 3, butter_melted_cooled: 2
+sour_cream_brittlebread -> butter: 5, flour: 5, baking_soda: 5, seasoned_salt_optional_: 1, sour_cream_or_soured_milk_: 3, salt_optional_see_note_: 5, sugar: 2
+sour_cream_taco_dip -> salsa_mild_med_or_hot_: 3, sour_cream: 2, taco_seasoning: 1, chredded_lettuce: 7, grated_monterey_jack_or_mild: 3, bag_of_tortilla_chips_: 4, green_onions_finely_chopped: 2, tomato_finely_chopped: 1
+soured_cream_clam_dip -> soured_cream: 1, lemon_juice: 2, pepper: 9, salt: 3, minced_onion: 2, celery_salt: 3, gorton_s_clams_drained: 1
+southwest_guacamole -> avocados_ripe_peel_pit: 5, salt: 3, lime_juice: 5, tomato_chopped: 1, cloves_garlic_fine_chopped: 4
+southwest_ham_and_cheese -> flour_tortillas_diameter: 6, vegetable_oil: 6, cooked_smoked_ham_slices: 6, cheddar_cheese_mild: 3
+speedy_crabmeat_imperial -> chopped_green_pepper: 5, all_purpose_flour: 3, chablis: 3, dry_mustard: 2, milk: 1, jar_pimento: 2, butter: 2, white_pepper: 5, salt: 5, chopped_onion: 5, fresh_lump_crabmeat: 1
+spiced_bake_sweet_potatoes -> turmeric: 5, cumin: 5, curry_powder: 1, salt: 3, ginger_powder: 5, vegetable_oil: 4, sweet_potatoes: 2
+spiced_melon_cocktail -> lemon_juice: 2, paprika: 1, tomato_paste: 2, radicchio_leaves_opt_: 8, worcestershire_sauce: 3, ripe_honeydew_melon_cut_in: 1, hot_pepper_sauce: 3, whipping_cream: 4, white_crabmeat_flaked: 8, mayonnaise: 4
+spiced_nuts -> cumin: 5, toasted_corn_nuts: 3, cayenne_pepper: 9, garlic_powder: 9, sunflower_nuts: 3, chili_powder: 1, spanish_peanuts: 3
+spiced_ricotta_spread -> sugar: 2, part_skim_ricotta_cheese: 4, finely_grated_orange_peel: 4, ground_nutmeg: 9
+spiced_sweet_potatoes -> soy_sauce: 1, garlic_powder: 3, coriander: 3, ginger_powder: 5, vegetable_oil: 4, sweet_potatoes: 2
+spicy_artichoke_dip -> garlic_clove_minced: 1, mayonnaise: 1, chopped_tomatoes: 2, green_onion_slices: 2, grated_parmesan_cheese: 1
+spicy_beef_lettuce_cups -> garlic_clove_crushed: 1, chili_sauce: 1, corn_oil: 2, light_soy_sauce: 2, five_spice_powder: 2, boneless_sirloin_trimmed: 3, green_onions_sliced: 6, piece_ginger_root_peeled_: 1, dry_sherry: 1, red_bell_pepper_seeded_: 1, crisp_lettuce_cups_chilled: 8, cornstarch: 3, water: 1
+spicy_dip_for_vegetables -> curry_powder_to_taste: 3, cottage_cheese_cream_style: 1, vinegar: 2, seedless_raisins: 5, black_pepper_freshly_ground: 9, salt: 7, chili_powder: 1, onion_cut_up: 3
+stuffed_mushrooms_ -> lemon_juiced: 3, garlic_clove_crushed: 1, mushrooms: 6, whole_chicken_breast: 1, butter_or_margarine: 2, chopped_parsley: 1, egg_yolk_lightly_beaten: 1
+stuffed_mushrooms_ -> worchestershire_sauce: 1, mushroom_caps: 7, dry_bread_crumbs: 4, lemon_juice: 1, pepper: 9, butter: 3, finely_chopped_green_pepper: 3, salt: 3, finely_chopped_celery: 5, finely_chopped_onion: 5
+stuffed_mushroom_caps -> butter: 10, chicken_bouillon_made_with: 1, mushrooms: 8, prepared_stuffing_mix: 3, onion: 1
+stuffed_quahogs -> can_mushrooms_drained: 4, onion_chopped: 1, dry_bread_crumbs: 3, salt: 1, quahogs: 3, flour: 3, butter_melted: 7
+stuffed_zucchini_boats -> zucchini_lb_each: 4, mushrooms: 3, onion_finely_chopped: 1, parsley_finely_chopped: 4, olive_oil_extra_virgin_is: 3, garlic_finely_minced: 2, bread_crumbs_fresh_fine: 3, butter: 4, parmesan_fresh_grated: 4, thyme_the_dried_type_: 5, egg_yolk: 1, lemon_juice: 2
+sugar_puffs -> egg: 1, milk: 1, salt: 9, flour_all_purpose: 1
+sugared_pecans -> butter_or_margarine: 1, pecan_halves_or_pieces: 3, packed_brown_sugar: 1
+sun_dried_tomato_dip -> sun_dried_tomatoes_dry: 3, vegetable_oil: 5, cloves_garlic_peeled: 1, oregano_dried: 4, water: 2, olive_oil: 6, thyme_dried: 4
+sun_dried_tomato_cheese_ball -> unsalted_butter_or: 8, parmesan_freshly_grated: 1, basil_leaves_fresh_: 2, sun_dried_tomatoes_: 3, cream_cheese: 8, olive_oil: 2
+sur_le_gril_chopped_liver -> fresh_calves_liver: 1, butter: 3, egg_hard_cooked_mashed: 1, salad_oil: 2, spanish_onion_chopped: 1
+surprise_cheese_puffs -> grated_sharp_cheese: 2, cayenne_or_red_pepper: 1, stuffed_green_olives_: 5, paprika: 1, butter: 3, salt: 3, sifted_flour: 1
+swedish_meatballs -> milk_or_cream: 1, onion_finely_chopped: 1, bread_crumbs: 4, ground_pork: 5, nutmeg: 9, salt_: 8, can_beef_broth: 1, allspice: 5, ground_chuck: 1, dill_weed: 7, ground_veal: 5, butter_or_margarine: 3, light_cream: 3, cardamon_optional_: 9, eggs: 2
+sweet_and_sour_meatballs -> egg: 1, cornstarch: 2, ground_beef: 2, bread_slice: 1, garlic_salt: 1, pineapple_chunks: 2, soy_sauce: 2, milk: 3, vinegar: 5, pepper: 1, sugar: 6, salt: 5, beef_bouillon: 8, green_peppers_chopped: 2
+sweet_onion_shrimp_balls -> egg: 1, potato: 1, sweet_onion: 1, shrimp: 4
+sweet_onion_quiche -> evaporated_milk: 5, crumbled_bacon: 3, ham_diced: 3, sour_cream: 3, caraway_seed_cheese_grated: 1, butter: 3, mild_american_cheese_grated: 4, pie_crust_unbaked: 1, onions_chopped: 7, swiss_cheese_grated: 1, eggs: 3
+sweet_pea_guacamole -> jalapeno_pepper_seeded_or: 1, frozen_peas_defrosted: 1, fresh_lime_juice: 2, ground_cumin: 5, salt: 7, serrano_peppers_seeded: 2, red_onion_finely_diced: 5, cilantro: 5, virgin_olive_oil: 2
+swiss_chalet_dip -> unbleached_flour: 1, garlic_clove_crushed: 1, smoked_ham_finely_diced: 5, swiss_cheese_shredded: 2, dry_white_wine: 1, white_onion_finely_diced: 1, brandy: 1
+tangy_blue_cheese_dip -> fresh_chives_finely_chopped: 2, garlic_minced: 1, sour_cream: 4, hot_sauce: 9, dried_chives_crumbled_: 2, blue_cheese_crumbled: 3
+tangy_meatballs -> brown_sugar: 4, ketchup: 2, liquid_smoke: 1, can_evaporated_milk: 3, pepper: 3, salt: 2, lean_ground_beef: 3, garlic_powder: 6, quick_cooking_or_rolled_oats: 2, chopped_onion: 4, eggs: 2
+tangy_potted_cheese -> port_or_sherry: 1, cheddar_cheese: 4, caraway_seeds: 3, green_onions_finely_chopped: 4, walnuts_coarsely_chopped: 5, butter_softened: 5, coarsely_ground_mustard: 1, worcestershire_sauce: 5
+taramosalata_greek_pate_ -> heavy_cream_plus: 3, milk: 2, lemon_juice: 2, smoked_cod_roe: 3, garlic_clove_peeled_and: 1, heavy_cream: 2, parsley_fresh_chopped: 2, olive_oil: 6, slices_whole_wheat_bread_: 2
+tarragon_mustard_dip -> white_wine_vinegar: 1, sour_cream: 3, dijon_mustard: 1, dried_tarragon_crushed: 1, salt: 5, mayonnaise: 1, fresh_tarragon_chopped_or: 1, black_pepper: 5
+tater_stuffed_mushrooms -> mashed_potatoes_made_with: 7, diet_margarine: 3, dehydrated_onion_soup_mix: 2, large_mushrooms_about_: 1, low_fat_cottage_cheese: 5
+tea_eggs -> tea_preferably_black_or: 3, piece_tangerine_peel: 1, whole_star_anise: 1, soy_sauce: 5, salt: 1, stick_cinnamon_: 1, eggs: 4
+texas_pecan_cheese_balls -> pecan_halves: 1, grated_cheddar_cheese: 3, paprika: 3, salt: 9, butter_melted: 5, of_all_purpose_flour: 7
+the_bee_cheese -> sharp_cheese_grated: 1, butter_softened: 1, horseradish: 1, garlic_salt: 3, sherry: 2
+the_ubiquitous_crab -> packages_cream_cheese: 2, hard_boiled_eggs_peeled_and: 2, paprika: 3, to_cups_crab_meat: 1, dry_mustard: 5, sharp_cheddar_cheese_grated: 3, onion_minced: 1, mayonnaise: 7
+three_layer_deck_the_halls_dip -> pace_thick_chunky_salsa: 8, guacamole: 8, sour_cream: 8, pace_picante_sauce: 8
+three_way_cheese_ball -> grated_onion: 2, milk: 2, snipped_parsley: 5, crumbled_blue_cheese: 3, package_cream_cheese: 8, shredded_cheddar_cheese: 4, worcestershire_sauce: 2, cracked_black_pepper: 2, garlic_powder: 7, chopped_pecans: 2
+time_to_wind_down_menu_recipes_ -> sherry_syrup_vinegar_or_: 4, freshly_ground_pepper: 3, white_onions_inch_in: 3, brown_sugar: 6, water: 3, salt: 1
+toasted_mushroom_rolls -> flour: 3, chives_minced: 2, mushrooms: 3, butter: 5, light_cream: 1, salt: 3, marjoram: 3, white_bread: 1, lemon_juice: 4
+tomato_aspic -> lemon_gelatin: 3, finely_chopped_amount_of: 1, vinegar: 3, tabasco_sauce: 1, tiny_monarch_or_richeliue: 1, worcestershire_sauce: 1, finely_chopped_green_pepper: 1, tomato_juice_heat_: 3, finely_chopped_celery: 1, finely_chopped_onion: 1
+tomato_verde_con_questo_green_tomatoes_with_cheese_ -> mexican_green: 2, heavy_cream: 7, onion_very_finely_chopped: 1, green_chilies_chopped_and: 1, butter: 2, sprigs_of_fresh_coriander_: 3, cream_cheese: 3, clove_garlic_finely_chopped: 1
+tourte_milanese -> puff_pastry: 1, lg_red_peppers_: 2, oil: 1, butter: 1, garlic_cloves_minced: 2, nutmeg_or_more_: 5, fresh_spinach_: 1
+vegetable_latkes -> flour: 5, pepper: 5, carrots: 2, zucchini: 2, egg_whites: 2, salt: 4, idaho_potatoes: 2, yellow_onion_finely_chopped: 1, eggs: 2
+vegetable_dip_mix -> garlic_salt: 1, paprika: 3, dried_chives: 1, dill_weed: 3
+vegetable_guacamole -> fresh_minced_thyme: 1, sprigs_parsley_coarsely: 3, broccoli_florets_broken: 1, sprigs_cilantro: 3, large_tomato_coarsely: 1, shallot_or_green_onion: 3, fresh_minced_basil: 1, ribs_of_celery_chopped: 3, hear_red_or_green_cabbage_: 5, ripe_avocados: 2, tomatillos_coarsely: 5
+vidalia_onion_dip -> to_cup_mayonnaise: 4, vinegar: 3, celery_seed: 1, sugar: 3, chopped_vidalia_sweet_onions: 3, water: 2
+vidalia_onion_tart -> flour: 1, heavy_cream: 6, peanut_oil: 5, bacon_cut_in_strips: 5, all_purpose_flour: 2, egg_yolks: 4, salt: 2, water: 3, unsalted_butter: 3, vidalia_sweet_onions: 2, cold_water: 6
+wagonwheel_layered_dip -> bean_dip: 3, drained_sliced_olives: 7, sour_cream: 1, finely_chopped_green_onions: 6, pace_picante_sauce: 1, shredded_monterey_jack: 4, mayonnaise: 1
+waikiki_appetizers -> chopped_green_pepper: 3, pineapple_chinks_in_syrup: 2, cornstarch: 2, lemon_juice: 5, drained_maraschino_cherries: 3, packed_brown_sugar: 3, soy_sauce: 2, bulk_pork_sausage: 4
+walnut_phyllo_rounds -> phyllo_pastry: 1, orange_blossom_water_or_: 1, each_ground_cinnamon_and: 3, granulated_sugar: 7, pistachios_or_slivered: 3, walnut_pieces: 4, lemon: 1, water: 4, chopped_candied_orange_peel: 5, butter_melted: 1
+west_indies_salad -> crabmeat: 1, ice_water: 4, olive_oil: 4, chopped_onion: 3, vinegar: 4
+white_castle_vidalia_dip -> crumbled_bacon: 3, hellmann_s_r_mayonaise: 8, shredded_swiss_cheese: 2, white_castle_hamburgers_: 5, chopped_vidalia_onions: 5
+wine_fruit_cup -> cinnamon_stick: 1, nectarines_sliced: 2, lemon_juice: 1, sugar: 3, raisins_golden_seedless: 3, salt: 5, anise_seed: 4, white_wine_dry: 4, purple_plums_sliced: 4
+wonderfully_weird_dip -> walnuts_coarsely_chopped: 1, jar_chutney: 1, container_sour_cream: 1
+yogurt_dip -> shredded_cucumber_drained: 3, plain_yogurt: 8, dill_weed: 4
+yogurt_herb_eggplant_spread -> dried_thyme: 1, plain_yogurt: 3, dried_oregano: 5, garlic_clove_minced: 1, finely_chopped_oregano_or_: 1, chopped_thyme_leaves_or_: 3
